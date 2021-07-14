@@ -1,0 +1,23 @@
+body h1{
+
+    text-align: center;
+    
+
+}
+
+
+body div{
+
+    padding: 5rem;
+    background-color:rgb(45, 145, 75);
+    text-align: center;
+    
+
+}
+
+body img#altimage{
+
+
+    width: 60%; 
+   
+}
